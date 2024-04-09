@@ -3,7 +3,7 @@ name: JAVA CI mit Macen
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
       - main
